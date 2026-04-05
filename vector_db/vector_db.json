@@ -1,0 +1,32 @@
+{
+  "vectors": [
+    "how many rows records instances samples are in the dataset",
+    "total number of records in this dataset",
+    "what is the row count of the data",
+    "how many columns features are there",
+    "total number of columns attributes fields",
+    "what are the column names feature names",
+    "list all columns in the dataset",
+    "what are the numeric columns number columns",
+    "which columns are numerical features",
+    "what are the categorical columns text columns",
+    "show me column data types dtypes",
+    "are there missing values null values in the dataset",
+    "how many missing values incomplete data",
+    "check for duplicate records repeated rows",
+    "how many duplicates are in the dataset",
+    "show me statistics summary of the data",
+    "describe the dataset numerical statistics",
+    "what are the correlations between features",
+    "show top correlations in the dataset",
+    "what is the memory usage dataset size",
+    "how large is the dataset disk space",
+    "what is the total number of cells",
+    "give me an overview of the dataset",
+    "tell me about the data structure",
+    "analyze the dataset quality"
+  ],
+  "metadata": {
+    "count": 25
+  }
+}
